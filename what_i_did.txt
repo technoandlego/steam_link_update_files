@@ -1,0 +1,10 @@
+what i did is connect my steam link to a rouge ap(a wifi pineapple)
+then i switch to a beta build on the steam link (settings-system-switch to beta build) then i wait for all the updates to compele 
+and then ran urlsnarf(a url tracking program) on the rouge ap(wifi pineapple)
+then i switch back to pulic build(settings-system-switch to pulic build) then i got 2 url one check the versions(http://media.steampowered.com/steamlink/06_2015/public_builds.txt) and the other is the update(http://media.steampowered.com/steamlink/06_2015/SystemUpdate_full_530.zip)
+
+i pasted in the the txt file url and got all the versions then i pasted the update url and got the zip 
+
+then i thogh i was done but i tried to http://media.steampowered.com/steamlink/06_2015/SystemUpdate_full_530.zip to http://media.steampowered.com/steamlink/06_2015/SystemUpdate_full_497(the number i changed and found in the public updates text file).zip and it worked
+
+there are probly better ways to this but this is what i did
