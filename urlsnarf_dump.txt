@@ -1,0 +1,3 @@
+urlsnarf: listening on br-lan [tcp port 80 or port 8080 or port 3128]
+steamlink-79D4.lan - - [11/Oct/2016:08:53:56 +0000] "GET http://media.steampowered.com/steamlink/06_2015/public_builds.txt HTTP/1.1" - - "-" "Mozilla/5.0"
+steamlink-79D4.lan - - [11/Oct/2016:08:54:03 +0000] "GET http://media.steampowered.com/steamlink/06_2015/SystemUpdate_full_530.zip HTTP/1.1" - - "-" "Mozilla/5.0"
