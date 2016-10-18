@@ -1,7 +1,7 @@
 # steam_link_update_files
 Stuff i found
 
-#tl;dr version
+#quick version
 
 version 497:http://media.steampowered.com/steamlink/06_2015/SystemUpdate_full_497.zip
 
