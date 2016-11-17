@@ -17,4 +17,6 @@ version 518:http://media.steampowered.com/steamlink/06_2015/SystemUpdate_full_51
 
 version 530:http://media.steampowered.com/steamlink/06_2015/SystemUpdate_full_530.zip
 
+version 554:http://media.steampowered.com/steamlink/06_2015/SystemUpdate_full_554.zip
+
 version list:http://media.steampowered.com/steamlink/06_2015/public_builds.txt
