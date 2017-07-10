@@ -9,7 +9,7 @@ then i thogh i was done but i tried to http://media.steampowered.com/steamlink/0
 
 there are probly better ways to this but this is what i did
 
-heres it in a format
+# heres it in a format
 
 version=615
 
