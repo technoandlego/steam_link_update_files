@@ -32,3 +32,19 @@ version 614:http://media.steampowered.com/steamlink/06_2015/SystemUpdate_full_61
 version 615:http://media.steampowered.com/steamlink/06_2015/SystemUpdate_full_615.zip
 
 version list:http://media.steampowered.com/steamlink/06_2015/public_builds.txt
+
+# Make your own URLs
+
+If the urls are not up to date then do this.
+
+1.Get the version list(http://media.steampowered.com/steamlink/06_2015/public_builds.txt)
+The last one is the latest version
+2.follow this
+
+version = 615
+
+http://media.steampowered.com/steamlink/06_2015/SystemUpdate_full_%version%.zip
+
+Then the url would be 
+
+http://media.steampowered.com/steamlink/06_2015/SystemUpdate_full_615.zip
