@@ -14,4 +14,3 @@ heres it in a format
 version=615
 
 http://media.steampowered.com/steamlink/06_2015/SystemUpdate_full_%version%.zip
-http://media.steampowered.com/steamlink/06_2015/SystemUpdate_full_530.zip
