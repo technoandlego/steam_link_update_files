@@ -11,5 +11,5 @@ The update file(http://media.steampowered.com/steamlink/06_2015/SystemUpdate_ful
 version=615
 
 http://media.steampowered.com/steamlink/06_2015/SystemUpdate_full_%version%.zip
-=
+is
 http://media.steampowered.com/steamlink/06_2015/SystemUpdate_full_615.zip
