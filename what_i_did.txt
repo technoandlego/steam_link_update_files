@@ -8,3 +8,10 @@ i pasted in the the txt file url and got all the versions then i pasted the upda
 then i thogh i was done but i tried to http://media.steampowered.com/steamlink/06_2015/SystemUpdate_full_530.zip to http://media.steampowered.com/steamlink/06_2015/SystemUpdate_full_497(the number i changed and found in the public updates text file).zip and it worked
 
 there are probly better ways to this but this is what i did
+
+heres it in a format
+
+version=615
+
+http://media.steampowered.com/steamlink/06_2015/SystemUpdate_full_%version%.zip
+http://media.steampowered.com/steamlink/06_2015/SystemUpdate_full_530.zip
