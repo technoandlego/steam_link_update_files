@@ -31,6 +31,8 @@ version 614:http://media.steampowered.com/steamlink/06_2015/SystemUpdate_full_61
 
 version 615:http://media.steampowered.com/steamlink/06_2015/SystemUpdate_full_615.zip
 
+version 624:http://media.steampowered.com/steamlink/06_2015/SystemUpdate_full_624.zip
+
 version list:http://media.steampowered.com/steamlink/06_2015/public_builds.txt
 
 # Make your own URLs
