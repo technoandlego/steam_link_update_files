@@ -43,10 +43,10 @@ If the urls are not up to date then do this.
 The last one is the latest version
 2.follow this
 
-version = 615
+version = 624
 
 http://media.steampowered.com/steamlink/06_2015/SystemUpdate_full_%version%.zip
 
 Then the url would be 
 
-http://media.steampowered.com/steamlink/06_2015/SystemUpdate_full_615.zip
+http://media.steampowered.com/steamlink/06_2015/SystemUpdate_full_624.zip
